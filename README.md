@@ -1,5 +1,3 @@
-![Line]()
-
 * Hello, I'm danklovic and I'm somewhat new to coding, I'm currently interested in Python 👋
 
 * So I got interested with Python after learning tutorials about discord.py to make my own Discord Bots, I'm still learning them though 📘
@@ -10,4 +8,4 @@
 
 * Thank you 🙏
 
-![Line]()
+![Footer](https://i.imgur.com/204cd5z.png)

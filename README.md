@@ -1,3 +1,5 @@
+![Line](https://i.imgur.com/V8kAjGV.gif)
+
 * Hello, I'm danklovic and I'm somewhat new to coding, I'm currently interested in Python 👋
 
 * So I got interested with Python after learning tutorials about discord.py to make my own Discord Bots, I'm still learning them though 📘
@@ -7,3 +9,5 @@
 * TL:DR - Beginner to Python and learning to make Discord Bots 🚞
 
 * Thank you 🙏
+
+![Line](https://i.imgur.com/V8kAjGV.gif)

@@ -1,4 +1,4 @@
-![Line](https://i.imgur.com/V8kAjGV.gif)
+![Line]()
 
 * Hello, I'm danklovic and I'm somewhat new to coding, I'm currently interested in Python 👋
 
@@ -10,4 +10,4 @@
 
 * Thank you 🙏
 
-![Line](https://i.imgur.com/V8kAjGV.gif)
+![Line]()

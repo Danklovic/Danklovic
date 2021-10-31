@@ -8,4 +8,4 @@
 
 * Thank you 🙏
 
-![Footer](https://i.imgur.com/204cd5z.png)
+![Footer](https://i.imgur.com/FNoFWAi.png)
